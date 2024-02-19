@@ -155,6 +155,8 @@ const bookingseat =document.getElementById('bookingseat')
 
 bannerbutton.addEventListener('click', function() {
     bookingseat.scrollIntoView({ behavior: 'smooth' });
+   
 });
+// smooth, auto, instant tinta behavior, 
 
 
