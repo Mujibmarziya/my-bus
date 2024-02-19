@@ -94,7 +94,7 @@ for(button of allbuttons){
         if(booked==4){
             couponbtn.removeAttribute('disabled')
             inputcoupon.removeAttribute('disabled')
-            window.alert("Prizes here! You can now apply our special coupon code.");
+            window.alert("Prizes here! You can now apply our special coupon code as you have booked 4 tickets!.");
         }
 
 
